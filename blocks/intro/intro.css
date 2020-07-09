@@ -1,0 +1,15 @@
+@import "./__title/intro__title.css";
+@import "./__text/intro__text.css";
+@import "./__list/intro__list.css";
+
+
+.intro{
+    max-width: 690px;;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 148px;
+    padding-top: 96px;
+    margin: 0;
+
+}

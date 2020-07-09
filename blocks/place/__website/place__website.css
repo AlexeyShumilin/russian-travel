@@ -1,0 +1,6 @@
+.place__website {
+    grid-area: 1 / 2 / 2 / 3;
+	width: 456px;
+	align-self: end;
+	padding-bottom: 4px;
+}

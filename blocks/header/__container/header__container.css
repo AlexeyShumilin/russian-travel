@@ -1,0 +1,9 @@
+.header__container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-basis:1184px ;
+  max-width: 1184px;
+  height: 52px;
+    
+}

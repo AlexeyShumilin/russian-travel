@@ -1,0 +1,18 @@
+@import "./__container/cover__container.css";
+@import "./__title/cover__title.css";
+@import "./__subtitle/cover__subtitle.css";
+@import "./__background/cover__background.css";
+@import "./__overlay/cover__overlay.css";
+
+.cover{
+    min-width: 1184px;
+    min-height: 740px ;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    background-position: center;
+}
+
+
+ /*min-height: calc(60vh - 60px);*/
+   

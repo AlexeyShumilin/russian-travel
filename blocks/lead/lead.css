@@ -1,0 +1,17 @@
+@import "./__title/lead__title.css";
+@import "./__subtitle/lead__subtitle.css";
+@import "./__image/lead__image.css";
+@import "./__caption/lead__caption.css";
+
+
+
+.lead{
+    display: flex;
+    flex-direction: column;
+    min-width: 984px;
+    align-items: center;
+    padding-right: 148px;
+    padding-left: 148px;
+    margin: 0;
+    
+}
