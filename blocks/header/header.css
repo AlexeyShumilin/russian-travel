@@ -1,15 +1,15 @@
-@import "./__container/header__container.css";
+
 @import "./__lang-link/header__lang-link.css";
 @import "./__lang-links/header__lang-links.css";
 @import "./__logo/header__logo.css";
 
-.header {
 
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding-top: 28px;
-  padding-left: 48px;
-  margin: 0;
-
+  .header {
+   
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    min-width: 1184px;
 }
+ 
+  

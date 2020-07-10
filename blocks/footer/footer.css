@@ -1,0 +1,13 @@
+@import "./__links/footer__links.css";
+@import "./__link/footer__link.css";
+@import "./__copyright/footer__copyright.css";
+
+.footer{
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    min-width: 1184px;
+    margin-bottom: 24px;
+    margin-top: 77px;
+   
+}

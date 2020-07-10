@@ -1,6 +1,8 @@
 .intro__list{
-align-self: flex-start; 
-max-width: 690px;
+display: flex;
+flex-direction: column;
+max-width: 383px;
+min-width: 283px;
 font-family: Inter;
 font-style: normal;
 font-weight: bold;
@@ -11,3 +13,5 @@ padding: 0;
 margin: 0;
 color: #FFFFFF;
 }
+
+

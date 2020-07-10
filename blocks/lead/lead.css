@@ -6,12 +6,11 @@
 
 
 .lead{
+    margin: auto;
     display: flex;
     flex-direction: column;
-    min-width: 984px;
+    justify-content: space-between;
     align-items: center;
-    padding-right: 148px;
-    padding-left: 148px;
-    margin: 0;
-    
+    min-width: 985px;
 }
+

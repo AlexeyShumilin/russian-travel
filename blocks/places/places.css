@@ -1,8 +1,11 @@
 @import "../place/place.css";
 
 .places{
+    display: flex;
+    flex-direction: column;
     max-width: 984px;
-    padding-right: 148px;
-    padding-left: 148px;
-    padding-top: 96px;
+    margin: 0 ;
+    margin-top: 90px;
+
+    
 }

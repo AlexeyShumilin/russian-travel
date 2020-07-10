@@ -1,4 +1,20 @@
+
 .cover__container {
-    width: 90%;
-    margin: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 1184px;
+    min-height: 740px;
+    align-items: center;
+    text-decoration: none;
+   padding: 0;
+   margin: 0;
 }
+
+.cover:hover .cover__background {
+    background: #2A2C2F;
+    opacity: 0.3;
+    transition: 0.3s ease-in-out 0.3s;
+    
+}
+

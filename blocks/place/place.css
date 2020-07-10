@@ -9,12 +9,10 @@
 
 .place{
     display: grid;
-    grid-template-columns: repeat(2, fit-content(1fr));
-    grid-template-rows: repeat(2, fit-content(1fr));
-    grid-gap: 40px 40px;
-    margin: 0;
-    padding-bottom: 80px;
-    max-width: 984px;
-    max-height: 584px;
-    
+    grid-template-columns: repeat(2, min-content);
+	grid-template-rows: repeat(2, min-content);
+    grid-gap: 46px 40px;
+    max-width: 990px;
+    margin-bottom: 83px;
 }
+

@@ -1,6 +1,6 @@
 @import "../vendor/normalize.css";
 @import "../fonts/fonts.css";
-@import "../blocks/page/page.css";
+@import "../blocks/body/body.css";
 @import "../blocks/content/content.css";
 @import "../blocks/header/header.css";
 @import "../blocks/lead/lead.css";
@@ -10,3 +10,4 @@
 @import "../blocks/place/place.css";
 @import "../blocks/cover/cover.css";
 @import "../blocks/footer/footer.css";
+
