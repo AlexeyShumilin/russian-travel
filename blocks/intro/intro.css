@@ -1,7 +1,3 @@
-@import "./__title/intro__title.css";
-@import "./__text/intro__text.css";
-@import "./__list/intro__list.css";
-
 
 .intro{
     display: flex;
@@ -11,4 +7,27 @@
     padding-top: 41px;
     margin: 0 auto;
 
+}
+
+
+@media screen and (max-width: 1279px) {
+    .intro {
+        min-width: 100%;
+        padding-top: 46px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        min-width: 100%;
+        padding-top: 40px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .intro {
+        min-width: 100%;
+        padding-top: 32px;
+    }
 }

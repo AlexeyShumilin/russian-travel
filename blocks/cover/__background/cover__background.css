@@ -1,13 +1,12 @@
 .cover__background {
-    position: absolute;
-    width: 1184px;
-    z-index: 1;
-    min-height: 740px;
-    top: 0;
-    left: 0;
-    margin: 0;
-    padding: 0;
-    object-fit: contain;
-    background: #2A2C2F;
-    opacity: 0.8;
-}
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+ 
+   
+} 
+
+
+

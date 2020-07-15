@@ -1,22 +1,21 @@
-
-.lead{
-    margin: auto;
+.place__text {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    min-width: 985px;
+    justify-content: baseline;
+    max-width: 100%;
+    margin: 0
 }
 
+
+
 @media screen and (max-width: 1279px) {
-    .lead {
-        min-width: 100%;
+    .place__text {
+        width: 49%;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .lead {
+    .place__text {
         width: 100%;
     }
 }
-

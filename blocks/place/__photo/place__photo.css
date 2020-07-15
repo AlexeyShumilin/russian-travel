@@ -1,21 +1,20 @@
 
-.lead{
-    margin: auto;
+.place__photo{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
-    min-width: 985px;
 }
 
+
 @media screen and (max-width: 1279px) {
-    .lead {
-        min-width: 100%;
+    .place__photo {
+        width: 50%;
+        justify-content: flex-start;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .lead {
+    .place__photo {
         width: 100%;
     }
 }

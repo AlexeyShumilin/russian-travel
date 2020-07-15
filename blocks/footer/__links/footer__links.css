@@ -1,8 +1,11 @@
-.footer__links{
+  
+.footer__links {
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    
+}
+
+@media (max-width: 767px) {
+    .footer__links {
+        flex-direction: column;
+    }
 }

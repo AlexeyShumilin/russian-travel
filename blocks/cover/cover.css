@@ -1,11 +1,41 @@
-@import "./__container/cover__container.css";
-@import "./__title/cover__title.css";
-@import "./__subtitle/cover__subtitle.css";
-@import "./__background/cover__background.css";
 
-.cover{
- display: flex;
- justify-content:  center;
-margin: 0;
-padding: 0;
+.cover {
+  
+  margin: 102px auto 0;
+  background-image: url(../../images/__background.jpg);
+  background-size: cover;
+  background-position: center;
+  max-width: 1184px;
+  background-color: rgba(0, 0, 0, .3);
+  background-blend-mode: multiply;
+}
+
+.cover:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  transition: .5s ease-in-out .5s;
+}
+
+@media (max-width: 1279px) {
+  .cover {
+      margin-top: 92px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .cover {
+    margin-top: 31px;
+  }
+}
+
+@media (max-width: 767px) {
+  .cover {
+      margin-top: 48px;
+  }
+}
+
+
+@media (max-width: 450px) {
+  .cover {
+      margin-top: 60px;
+  }
 }
