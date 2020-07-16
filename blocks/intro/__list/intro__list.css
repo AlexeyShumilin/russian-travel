@@ -1,17 +1,15 @@
-.intro__list{
-display: flex;
-flex-direction: column;
-max-width: 383px;
-min-width: 283px;
-font-family: Inter;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 1.5;
-list-style: none;
-padding: 0;
-margin: 0;
-color: #FFFFFF;
+.intro__list {
+    display: flex;
+    flex-direction: column;
+    max-width: 383px;
+    min-width: 283px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #ffffff;
 }
-
-

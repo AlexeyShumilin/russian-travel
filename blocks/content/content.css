@@ -5,16 +5,14 @@
     flex-flow: column;
     justify-content: center;
     align-items: center;
-     
-   
 }
-
 
 @media screen and (max-width: 1279px) {
     .content {
         max-width: 928px;
     }
 }
+
 @media screen and (max-width: 1023px) {
     .content {
         max-width: 100vw;
@@ -22,6 +20,7 @@
         margin-right: 24px;
     }
 }
+
 @media screen and (max-width: 767px) {
     .content {
         max-width: 100vw;

@@ -1,23 +1,21 @@
-# Проект 3: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+# HOW TO LEARN
 
-**Интро**
+## Description
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+responsible one-page website about traveling in Russia.
 
-**Figma**
+* Created a Nested BEM file structure.
+* To create grids, used flexbox and grid layout.
+* Adapted for viewing at various screen resolutions.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+## Overview
 
-**Картинки**
+Technologies used:
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+- HTML:
+  - BEM structure
+- CSS:
+  - flexbox
+  - grid layout
+  - media queries

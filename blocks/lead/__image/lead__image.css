@@ -3,18 +3,16 @@
     object-fit: contain;
     max-width: 984px;
 }
-@media  (max-width: 1279px) {
+@media (max-width: 1279px) {
     .lead__image {
         width: 90%;
-    margin: 60px auto 0px;
-        
+        margin: 60px auto 0px;
     }
 }
 
-@media  (max-width: 1023px) {
+@media (max-width: 1023px) {
     .lead__image {
         margin: 54px auto 0px;
-        
     }
 }
 

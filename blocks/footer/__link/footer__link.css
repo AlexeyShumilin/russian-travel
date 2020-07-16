@@ -2,7 +2,7 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 18px;
-    color: #FFFFFF;
+    color: #ffffff;
     text-decoration: none;
     margin-right: 18px;
 }
@@ -12,15 +12,14 @@
 }
 
 .footer__link:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
-
 
 @media (max-width: 767px) {
     .footer__link {
         font-size: 24px;
-    line-height: 24px;
-    margin-bottom: 32px;
-    margin-right: 0;
+        line-height: 24px;
+        margin-bottom: 32px;
+        margin-right: 0;
     }
 }

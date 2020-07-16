@@ -3,10 +3,8 @@
     flex-direction: column;
     justify-content: baseline;
     max-width: 100%;
-    margin: 0
+    margin: 0;
 }
-
-
 
 @media screen and (max-width: 1279px) {
     .place__text {
