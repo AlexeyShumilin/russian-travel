@@ -33,8 +33,8 @@
 
 @media (max-width: 450px) {
     .cover__subtitle {
-        margin-bottom: 17px;
+        margin-bottom: 31px;
         margin-top: 15px;
-        max-width: 268px;
+        max-width: 272px;
     }
 }

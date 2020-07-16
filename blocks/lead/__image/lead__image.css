@@ -13,11 +13,13 @@
 @media (max-width: 1023px) {
     .lead__image {
         margin: 54px auto 0px;
+        width: 100%;
     }
 }
 
 @media (max-width: 450px) {
     .lead__image {
         margin: 38px auto 0px;
+        min-width: 320px;
     }
 }

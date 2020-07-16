@@ -25,6 +25,7 @@
 
 @import "../blocks/places/places.css";
 @import "../blocks/place/place.css";
+@import "../blocks/place/__place/content__place.css";
 @import "../blocks/places/__places/content__places.css";
 @import "../blocks/place/__photo/place__photo.css";
 @import "../blocks/place/__image/place__image.css";

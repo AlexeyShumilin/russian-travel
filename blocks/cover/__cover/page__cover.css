@@ -3,25 +3,25 @@
 }
 
 @media (max-width: 1279px) {
-    .cover {
+    .page__cover {
         margin-top: 92px;
     }
 }
 
 @media (max-width: 1023px) {
-    .cover {
+    .page__cover {
         margin-top: 31px;
     }
 }
 
 @media (max-width: 767px) {
-    .cover {
+    .page__cover {
         margin-top: 48px;
     }
 }
 
 @media (max-width: 450px) {
-    .cover {
+    .page__cover {
         margin-top: 60px;
     }
 }
