@@ -1,0 +1,25 @@
+.content__place {
+    margin-bottom: 84px;
+}
+
+.content__place:last-of-type {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .content__place {
+        margin-bottom: 68px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .content__place {
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .content__place {
+        margin-bottom: 48px;
+    }
+}
