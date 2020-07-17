@@ -21,8 +21,17 @@
 
 @media (max-width: 767px) {
     .place__paragraph {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 450px) {
+    .place__paragraph {
         width: 282px;
     }
+}
+
 
     .place__paragraph:first-child {
         margin-bottom: 24px;
@@ -31,4 +40,4 @@
     .place__paragraph:last-child {
         margin-bottom: 0;
     }
-}
+
