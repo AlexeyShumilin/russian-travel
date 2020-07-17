@@ -21,7 +21,7 @@
 
 @media (max-width: 767px) {
     .place__paragraph {
-        min-width: 282px;
+        width: 282px;
     }
 
     .place__paragraph:first-child {
