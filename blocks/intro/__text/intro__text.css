@@ -10,14 +10,11 @@
     color: #ffffff;
 }
 
-@media screen and (max-width: 767px) {
-    .intro__text {
-        max-width: 400px;
-    }
-}
+
 
 @media screen and (max-width: 1024px) {
     .intro__text {
         max-width: 720px;
     }
 }
+
