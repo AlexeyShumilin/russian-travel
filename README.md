@@ -1,5 +1,5 @@
 
-# HOW TO LEARN
+# Russian travel
 
  https://alexeyshumilin.github.io/russian-travel/.
  
