@@ -1,22 +1,22 @@
 .page__footer {
-    margin: 98px auto 0;
+    margin: 70px auto 0;
 }
 
 @media (max-width: 1279px) {
     .page__footer {
-        margin: 90px 47px 0;
+        margin: 75px 47px 0;
     }
 }
 
 @media (max-width: 1023px) {
     .page__footer {
-        margin: 82px 23px 0;
+        margin: 72px 23px 0;
     }
 }
 
 @media (max-width: 767px) {
     .page__footer {
-        margin-top: 65px;
+        margin-top: 53px;
         margin-left: 16px;
     }
 }

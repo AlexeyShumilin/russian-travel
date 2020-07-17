@@ -1,16 +1,16 @@
 .page__cover {
-    margin: 102px auto 0;
+    margin: 10px auto 0;
 }
 
 @media (max-width: 1279px) {
     .page__cover {
-        margin-top: 92px;
+        margin-top: 10px;
     }
 }
 
 @media (max-width: 1023px) {
     .page__cover {
-        margin-top: 31px;
+        margin-top: 0;
     }
 }
 
@@ -22,6 +22,6 @@
 
 @media (max-width: 450px) {
     .page__cover {
-        margin-top: 60px;
+        margin-top: 0;
     }
 }

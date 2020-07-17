@@ -5,7 +5,7 @@
     max-width: 560px;
     text-align: center;
     color: #fffdfd;
-    margin-top: 245px;
+    margin-top: 251px;
     margin-bottom: 0px;
 }
 
@@ -17,7 +17,7 @@
 
 @media (max-width: 1023px) {
     .cover__title {
-        margin-top: 124px;
+        margin-top: 118px;
     }
 }
 
@@ -32,7 +32,7 @@
 
 @media (max-width: 450px) {
     .cover__title {
-        margin-top: 43px;
+        margin-top: 36px;
         max-width: 255px;
     }
 }

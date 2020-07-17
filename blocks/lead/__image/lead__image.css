@@ -3,6 +3,7 @@
     object-fit: contain;
     max-width: 984px;
 }
+
 @media (max-width: 1279px) {
     .lead__image {
         width: 90%;
