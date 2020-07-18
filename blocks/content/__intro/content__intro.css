@@ -1,13 +1,11 @@
-.content__intro{
+.content__intro {
     margin: 0 auto;
 }
 
-
-
 @media screen and (max-width: 767px) {
-    .content__intro{
+    .content__intro {
         margin-left: 16px;
         margin-right: 16px;
         min-width: 288px;
-}
+    }
 }

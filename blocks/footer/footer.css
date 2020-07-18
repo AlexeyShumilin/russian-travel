@@ -7,7 +7,6 @@
 
 @media (max-width: 767px) {
     .footer {
-        min-height: 312px;
         padding-bottom: 24px;
         flex-direction: column;
     }

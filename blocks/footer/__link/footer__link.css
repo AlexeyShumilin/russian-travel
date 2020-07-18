@@ -4,11 +4,8 @@
     line-height: 18px;
     color: #ffff;
     text-decoration: none;
-    
     margin-right: 9px;
 }
-
-
 
 .footer__link:hover {
     opacity: 0.8;
